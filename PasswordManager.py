@@ -88,7 +88,7 @@ def getList():
 
 if __name__ == "__main__":
     app = tk.Tk()
-    app.geometry("560x270")
+    app.geometry("250x170")
     app.title("Password Manager")
     
     #Username block
